@@ -4,6 +4,9 @@ import org.aopalliance.intercept.MethodInterceptor;
 import org.aopalliance.intercept.MethodInvocation;
 
 
+/**
+ * 采用实现MethodInterceptor的方式实现around
+ */
 public class MethodInteceptor implements MethodInterceptor {
     @Override
     public Object invoke(MethodInvocation invocation) throws Throwable {

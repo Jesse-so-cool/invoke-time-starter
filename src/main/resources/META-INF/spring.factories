@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.jesse.invoketime.config.AutoConfiguration
+com.jesse.invoketime.config.AutoConfiguration2
